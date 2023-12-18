@@ -1,3 +1,4 @@
 # Telegram Voice Echo Bot
 
-*work in progress*
+### Send a voice message to the bot, and it will send a text in response.
+### Supports forwarded messages.
